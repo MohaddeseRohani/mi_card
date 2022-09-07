@@ -9,14 +9,14 @@
 
 ## Widgets used in this project:
 
-*Row
-*card
-*icon
-*fonts
-*column
-*Divider
-*padding
-*SafeArea
-*SizedBox
-*ListTile
-*circleAvatar
+* Row
+* card
+* icon
+* fonts
+* column
+* Divider
+* padding
+* SafeArea
+* SizedBox
+* ListTile
+* circleAvatar
