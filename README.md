@@ -1,11 +1,22 @@
+## what does this app do?
 
-## What you will learn
+* Mi Card can be used as a personal business card. 
+* Imagine someone asks you for contact details and you don't have a business card with you 
+* Well, now you can get them to download your business card as an app.
 
-* How to create Stateless Widgets
-* What is the difference between hot reload and hot refresh and running an app from cold
-* How to use Containers to lay out your UI
-* How to use Columns and Rows to position your UI elements
-* How to add custom fonts
-* How to add Material icons
-* How to style Text widgets
-* How to read and use Flutter Documentation
+
+
+
+## Widgets used in this project:
+
+*Row
+*card
+*icon
+*fonts
+*column
+*Divider
+*padding
+*SafeArea
+*SizedBox
+*ListTile
+*circleAvatar
